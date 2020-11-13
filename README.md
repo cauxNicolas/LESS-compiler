@@ -114,3 +114,7 @@ Ici, nous disons à less-watch-compiler de surveiller tous les fichiers dans 'sr
 
 Maintenant, codez en LESS dans votre fichier App.less, un fichier App.css se génèrera automatiquement.
 Profitez-bien !
+
+#### source :
+
+[https://www.folio3.com/using-less-in-react-without-ejecting](https://www.folio3.com/using-less-in-react-without-ejecting)
