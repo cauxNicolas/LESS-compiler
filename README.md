@@ -1,4 +1,4 @@
-# Compilateur LESS -> CSS
+# Compiler un fichier CSS avec LESS
 
 ### 1 - Lancer le projet React
 
