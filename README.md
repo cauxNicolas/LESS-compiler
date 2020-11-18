@@ -14,8 +14,10 @@
 
 ### 4 - Dans le fichier package.json
 
-<strong>Créer "devDependencies"</strong>
+<strong>Créer "devDependencies"</strong>. 
+```json
 "devDependencies": {},
+```
 
 <strong>Dans "dependencies" deplacer less et less-watch-compiler dans "devDependencies"</strong>
 
