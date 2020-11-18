@@ -111,8 +111,7 @@ Ici, nous disons à less-watch-compiler de surveiller tous les fichiers dans 'sr
 
 <strong>Changez votre fichier "App.css" en "App.less"</strong> et commencez à coder en CSS dans votre fichier App.less  
 <strong>Lancer dans le terminale</strong>
-<code>npm run dev-start</code>
-
+<code>npm run dev-start</code>  
 Maintenant, codez en LESS dans votre fichier App.less, un fichier App.css se génèrera automatiquement.
 Profitez-bien !
 
